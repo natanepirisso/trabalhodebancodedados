@@ -1,10 +1,13 @@
 Situação Banco de Dados
 
-Site de Doações de pet
+Site de Adoções de pets
 
-*Site , sem empresas, ongs ou qualquer outra coisa envolvida. apenas uma pessoa
 
-*todos os pets foram achados pela detentora do site nas ruas
+*Site autonomo , sem empresas, ongs ou qualquer outra coisa envolvida. apenas uma pessoa e seu grupo familiar
+
+*sem fins lucrativos. apenas para doações e adoções
+
+*todos os pets foram achados pela detentora do site e sua familia nas ruas
 
 *Muitas pessoas podem adotar os pets e fazer doações de materiais que ajudem a detentora deste site a manter os pets++
 
@@ -28,5 +31,6 @@ Site de Doações de pet
 
 *a pessoa pode agendar a sua ida ao local de adoção por meio de telefonemas,redes sociais ou whatsapp
 
-*
+*a pessoa pode solicitar um transporte de adoção e doação via telefonemas, redes sociais ou whatsapp
+
 
