@@ -2,6 +2,11 @@ Situação Banco de Dados
 
 Site de Adoções de pets
 
+Natan Risso Epifanio
+Alexandre Augusto Muller
+Fabio
+Lucas
+
 
 *Site autonomo , sem empresas, ongs ou qualquer outra coisa envolvida. apenas uma pessoa e seu grupo familiar
 
